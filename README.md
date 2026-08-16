@@ -19,9 +19,9 @@
 
 ## About Me
 
-I'm an **Information Technology student** and aspiring **Junior Data Analyst** with a growing interest in using technology and data to solve real-world problems.
+I'm an Information Technology student and aspiring Junior Data Analyst with a growing interest in using technology and data to solve real-world problems.
 
-I'm currently developing my skills across **data analytics, databases, programming, networking, and software development**, while continuously working on improving my technical abilities.
+I'm currently developing my skills across data analytics, databases, programming, networking, and software development, while continuously working on improving my technical abilities.
 
 ### Areas of Interest
 
@@ -63,15 +63,6 @@ My goal is to become a skilled data professional who can transform raw data into
 ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge\&logo=oracle\&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge\&logo=mysql\&logoColor=white)
 
-Areas I'm developing:
-
-* Database Design
-* Entity Relationship Diagrams
-* SQL Queries
-* Primary and Foreign Keys
-* Database Constraints
-* Data Modelling
-* Database Management
 
 ---
 
