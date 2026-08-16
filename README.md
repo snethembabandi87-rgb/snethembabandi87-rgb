@@ -1,16 +1,12 @@
-# 👋 Hi, I'm Loyiso Hlophe
+# Hi, I'm Loyiso Hlophe
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00C2FF&center=true&vCenter=true&width=900&lines=IT+Student+%7C+Aspiring+Junior+Data+Analyst;Python+%7C+SQL+%7C+Power+BI+%7C+Java;Turning+Data+Into+Insights;Building+Projects+%7C+Learning+%7C+Growing;Data+Analytics+%7C+Databases+%7C+Software+Development" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00C2FF&center=true&vCenter=true&width=900&lines=IT+Student+%7C+Aspiring+Junior+Data+Analyst;Python+%7C+SQL+%7C+Power+BI+%7C+Java;Turning+Data+Into+Insights;Learning+%7C+Building+%7C+Growing;Data+Analytics+%7C+Databases+%7C+Software+Development" />
 </p>
 
 <p align="center">
-  <a href="https://github.com/YOUR-GITHUB-USERNAME">
-    <img src="https://img.shields.io/github/followers/YOUR-GITHUB-USERNAME?label=Followers&logo=github&style=for-the-badge&color=00C2FF&labelColor=000000"/>
-  </a>
-  <a href="https://komarev.com/ghpvc/?username=YOUR-GITHUB-USERNAME">
-    <img src="https://komarev.com/ghpvc/?username=YOUR-GITHUB-USERNAME&color=blueviolet&style=for-the-badge&label=PROFILE+VIEWS"/>
-  </a>
+  <img src="https://img.shields.io/badge/Followers-0-00C2FF?style=for-the-badge&logo=github&labelColor=000000"/>
+  <img src="https://img.shields.io/badge/Profile%20Views-9-blueviolet?style=for-the-badge"/>
   <a href="mailto:YOUR-EMAIL@example.com">
     <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail"/>
   </a>
@@ -21,29 +17,29 @@
 
 ---
 
-## 🚀 About Me
+## About Me
 
 I'm an **Information Technology student** and aspiring **Junior Data Analyst** with a growing interest in using technology and data to solve real-world problems.
 
-I'm currently building my skills across **data analytics, databases, programming, and software development**, while working on practical projects to strengthen my portfolio.
+I'm currently developing my skills across **data analytics, databases, programming, networking, and software development**, while continuously working on improving my technical abilities.
 
-### 🔎 What I'm Interested In
+### Areas of Interest
 
-* 📊 Data Analysis & Visualization
-* 🐍 Python for Data Analysis
-* 🗃️ SQL & Database Management
-* 📈 Power BI & Business Intelligence
-* 💻 Software Development
-* 🌐 Networking & IT Infrastructure
-* 🧩 Problem Solving & Automation
+* Data Analysis and Visualization
+* Python for Data Analysis
+* SQL and Database Management
+* Power BI and Business Intelligence
+* Software Development
+* Networking and IT Infrastructure
+* Problem Solving and Automation
 
-🎯 **My goal:** To become a skilled data professional who can turn raw data into meaningful insights and build technology solutions that create real value.
+My goal is to become a skilled data professional who can transform raw data into meaningful insights and develop technology solutions that create real value.
 
 ---
 
-# 🛠️ Tech Stack
+# Tech Stack
 
-## 💻 Programming & Query Languages
+## Programming and Query Languages
 
 ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge\&logo=python\&logoColor=ffdd54)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge\&logo=openjdk\&logoColor=white)
@@ -52,7 +48,7 @@ I'm currently building my skills across **data analytics, databases, programming
 
 ---
 
-## 📊 Data & Analytics
+## Data and Analytics
 
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge\&logo=powerbi\&logoColor=black)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge\&logo=pandas\&logoColor=white)
@@ -62,24 +58,24 @@ I'm currently building my skills across **data analytics, databases, programming
 
 ---
 
-## 🗄️ Databases
+## Databases
 
 ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge\&logo=oracle\&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge\&logo=mysql\&logoColor=white)
-![SQL](https://img.shields.io/badge/Database%20Design-4479A1?style=for-the-badge)
 
-**Currently learning:**
+Areas I'm developing:
 
-* Database Design & ERDs
+* Database Design
+* Entity Relationship Diagrams
 * SQL Queries
-* Primary & Foreign Keys
-* Constraints
+* Primary and Foreign Keys
+* Database Constraints
 * Data Modelling
 * Database Management
 
 ---
 
-## 🌐 Networking & IT
+## Networking and Development Tools
 
 ![Cisco](https://img.shields.io/badge/Cisco-1BA0D7?style=for-the-badge\&logo=cisco\&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
@@ -89,53 +85,33 @@ I'm currently building my skills across **data analytics, databases, programming
 
 ---
 
-# 📚 What I'm Currently Learning
+# Currently Learning
 
 ```text
-📊 Data Analytics        ███████████████░░░  Learning
-🐍 Python                ██████████████░░░░  Developing
-🗃️ SQL & Databases       ███████████████░░░  Developing
-📈 Power BI              ████████████░░░░░░  Developing
-💻 Java                  ███████████░░░░░░░  Learning
-🌐 Networking             ████████████░░░░░░  Developing
+Data Analytics          ███████████████░░░  Learning
+Python                  ██████████████░░░░  Developing
+SQL and Databases       ███████████████░░░  Developing
+Power BI                ████████████░░░░░░  Developing
+Java                    ███████████░░░░░░░  Learning
+Networking              ████████████░░░░░░  Developing
 ```
 
 ---
 
-# 🚀 Projects
+# Career Goals
 
-### 📦 Inventory Control Management System
-
-A database project designed to help businesses manage stock efficiently and reduce problems caused by overstocking and understocking.
-
-**Focus:** Database Design • SQL • ERD • Data Management
-
----
-
-### 🏥 Hospital Management System
-
-A database solution designed around managing hospital-related information and relationships between patients, staff, services and other entities.
-
-**Focus:** ERD • Database Design • SQL • Data Modelling
+* Become a strong Junior Data Analyst
+* Improve my Python and SQL skills
+* Develop professional Power BI dashboards
+* Strengthen my database development skills
+* Continue improving my programming skills
+* Expand my networking and IT knowledge
+* Build a strong professional GitHub portfolio
+* Prepare for opportunities in the IT and data industry
 
 ---
 
-### 📊 Data Analytics Projects
-
-I'm building data analytics projects focused on:
-
-* Data cleaning
-* Exploratory data analysis
-* SQL analysis
-* Data visualization
-* Business insights
-* Power BI dashboards
-
-**More projects coming soon... 🚧**
-
----
-
-# 📈 GitHub Stats
+# GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=YOUR-GITHUB-USERNAME&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
@@ -144,20 +120,7 @@ I'm building data analytics projects focused on:
 
 ---
 
-# 🎯 My Goals
-
-* 📊 Become a strong Junior Data Analyst
-* 🐍 Improve my Python and SQL skills
-* 📈 Build professional Power BI dashboards
-* 🗃️ Strengthen my database development skills
-* 💻 Build more real-world software projects
-* 🌐 Continue developing my networking knowledge
-* 🚀 Build a strong GitHub portfolio
-* 💼 Prepare for opportunities in the IT and data industry
-
----
-
-# 🤝 Let's Connect
+# Connect With Me
 
 <p align="center">
 
@@ -178,9 +141,5 @@ I'm building data analytics projects focused on:
 ---
 
 <p align="center">
-  <b>💡 Learning today. Building tomorrow.</b>
-</p>
-
-<p align="center">
-  ⭐ Feel free to explore my repositories and follow my journey!
+  <b>Learning today. Building tomorrow.</b>
 </p>
