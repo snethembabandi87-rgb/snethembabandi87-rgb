@@ -33,8 +33,6 @@ I'm currently developing my skills across data analytics, databases, programming
 * Networking and IT Infrastructure
 * Problem Solving and Automation
 
-My goal is to become a skilled data professional who can transform raw data into meaningful insights and develop technology solutions that create real value.
-
 ---
 
 # Tech Stack
