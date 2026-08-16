@@ -98,18 +98,6 @@ Networking              ████████████░░░░░░  
 
 ---
 
-# Career Goals
-
-* Become a strong Junior Data Analyst
-* Improve my Python and SQL skills
-* Develop professional Power BI dashboards
-* Strengthen my database development skills
-* Continue improving my programming skills
-* Expand my networking and IT knowledge
-* Build a strong professional GitHub portfolio
-* Prepare for opportunities in the IT and data industry
-
----
 
 # GitHub Stats
 
